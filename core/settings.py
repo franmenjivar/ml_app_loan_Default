@@ -89,11 +89,11 @@ DATABASES = {
         #'ENGINE': 'django.db.backends.sqlite3',
         #'NAME': BASE_DIR / 'db.sqlite3',
         'ENGINE':'django.db.backends.mysql',
-        'NAME': 'diimo_core',
-        'USER': 'root',
-        'PASSWORD':'46A6aefc',
+        'NAME': '--------------',
+        'USER': '----------------',
+        'PASSWORD':'------------',
         'HOST':'localhost',
-        'PORT':'3306',
+        'PORT':'------------',
         'OPTIONS':{
             'init_command':"SET sql_mode='STRICT_TRANS_TABLES'"
         }
